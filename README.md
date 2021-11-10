@@ -1,2 +1,2 @@
 # KItyKatGoesDown
-This cat goes down, and thats great
+This cat goes down, and that's great
